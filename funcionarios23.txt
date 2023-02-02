@@ -1,0 +1,64 @@
+Nome do Funcionário: Admin
+Cargo: Administrador
+Nivel: Senior
+Salario por hora: 100,00
+Horas Registradas: 30
+Salario Esperado: 3000,00
+CPF: 45345435
+Score: 100
+
+Nome do Funcionário: Gerente
+Cargo: Gerente
+Nivel: Senior
+Salario por hora: 100,00
+Horas Registradas: 33
+Salario Esperado: 3300,00
+CPF: 45345435
+Score: 100
+
+Nome do Funcionário: Marcos Oliveira
+Cargo: Funcionario
+Nivel: Junior
+Salario por hora: 40,00
+Horas Registradas: 55
+Salario Esperado: 2200,00
+CPF: 434343434
+Score: 100
+
+Nome do Funcionário: Roberto
+Cargo: Segurança
+Nivel: Pleno
+Salario por hora: 15,00
+Horas Registradas: 30
+Salario Esperado: 450,00
+CPF: 46543732
+Score: 100
+
+Nome do Funcionário: BBbbbb
+Cargo: fdgsf
+Nivel: gdsg
+Salario por hora: 23,00
+Horas Registradas: 0
+Salario Esperado: 0,00
+CPF: 33434563456
+Score: 100
+
+Nome do Funcionário: Bubba
+Cargo: 4567
+Nivel: 34567
+Salario por hora: 23,00
+Horas Registradas: 0
+Salario Esperado: 0,00
+CPF: 35678986e5
+Score: 100
+
+Nome do Funcionário: silvio
+Cargo: programador
+Nivel: junior
+Salario por hora: 5000,00
+Horas Registradas: 0
+Salario Esperado: 0,00
+CPF: 5546464544
+Score: 100
+
+FIM DOS USUÁRIOS

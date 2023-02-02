@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1667187601 source:c:\users\user\documents\pim2\pim2 easymart\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667089327 c:\users\user\documents\pim2\pim2 easymart\funcoes.c
+
+1667262805 source:c:\users\aluno\desktop\pim2\pim2 easymart\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667074926 c:\users\aluno\desktop\pim2\pim2 easymart\funcoes.c
+
+1667324319 source:c:\users\user\desktop\pim2 easymart v2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667060526 c:\users\user\desktop\pim2 easymart v2\funcoes.c
+
+1667356333 source:c:\users\user\desktop\pim2 easymart 01novembro\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667060526 c:\users\user\desktop\pim2 easymart 01novembro\funcoes.c
+
+1667407973 source:c:\users\user\desktop\pim2 easymart 01novembro - copia\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667060526 c:\users\user\desktop\pim2 easymart 01novembro - copia\funcoes.c
+
+1667499066 source:c:\users\user\desktop\pim2 easymart 03novembro\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1667060526 c:\users\user\desktop\pim2 easymart 03novembro\funcoes.c
+
+1668792667 source:c:\users\user\desktop\pim2 easymart 05novembro\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.c"
+
+1668737354 c:\users\user\desktop\pim2 easymart 05novembro\funcoes.c
+
+1669071160 source:c:\users\user\desktop\pim2 easymart 21novembro\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1668737354 c:\users\user\desktop\pim2 easymart 21novembro\funcoes.c
+
+1669249979 source:c:\users\user\desktop\pim2 easymart final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+

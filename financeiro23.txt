@@ -1,0 +1,14 @@
+Funcionário: Admin
+Ganhos: 3000,00
+
+Funcionário: Gerente
+Ganhos: 3300,00
+
+Funcionário: Marcos Oliveira
+Ganhos: 2200,00
+
+Funcionário: Roberto
+Ganhos: 450,00
+
+Total de gastos: 8950,00
+(Atenção: Total de gastos inclue usuários que talvez você não tenha acesso)

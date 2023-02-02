@@ -1,0 +1,73 @@
+Empresa: mendes mundial.me
+CNPJ 5454342654984
+Endereço: rua luiz junior pinto
+Telefone Publico: 1398885255
+E-mail: mends.@amd,com
+Contato: ugo mendes
+CPF: 84855644
+Telefone: 75463
+
+Empresa: Amazon
+CNPJ 58473487589348
+Endereço: 4
+Telefone Publico: 0800 038 0541
+E-mail: contato@amazon.br
+Contato: Flavio
+CPF: 4853975893
+Telefone: (13) 9 3487-3764
+
+Empresa: Amazon
+CNPJ 38742839473892
+Endereço: Av. Pres. Juscelino Kubitschek, 2041 - Vila Ol¡mpia, SÆo Paulo - SP
+Telefone Publico: 0800 038 0541
+E-mail: contato@amazon.br
+Contato: Flavio
+CPF: 328437857
+Telefone: 13976543476
+
+Empresa: Shopee
+CNPJ 3225346436
+Endereço: SÆo Paulo em algum lugar idk
+Telefone Publico: 56523142
+E-mail: hfjsdhf@shopee.com
+Contato: Fabio
+CPF: 6543634
+Telefone: 54565765643
+
+Empresa: Amazon 4
+CNPJ 489385 4
+Endereço: fsdhfksdj 234 4
+Telefone Publico: 10068896 4
+E-mail: aaaaa@gmail.com 4
+Contato: Roberta 4
+CPF: 543859374 4
+Telefone: 10068936 4
+
+Empresa: Amazon 3
+CNPJ 489385 3
+Endereço: fsdhfksdj 234 3
+Telefone Publico: 10068896 3
+E-mail: aaaaa@gmail.com 3
+Contato: Roberta
+CPF: 543859374 3
+Telefone: 10068936 3
+
+Empresa: Amazon 2
+CNPJ 489385 2
+Endereço: fsdhfksdj 234 2
+Telefone Publico: 10068896 2
+E-mail: aaaaa@gmail.com 2
+Contato: Roberta 2
+CPF: 543859374 2
+Telefone: 10068936 2
+
+Empresa: Amazon
+CNPJ 489385
+Endereço: fsdhfksdj 234
+Telefone Publico: 10068896
+E-mail: aaaaa@gmail.com
+Contato: Roberta
+CPF: 543859374
+Telefone: 10068936
+
+FIM DOS CLIENTES
